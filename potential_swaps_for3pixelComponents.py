@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 21 18:29:58 2019
 
-@author: zepman
+@author: zepman85
 
 Given a 2D grid of pixels and a value of interest,
 this code looks for every pixel of that value (called "source") that is situated 
