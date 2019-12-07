@@ -6,7 +6,7 @@ A **source** can have multiple **destinations** and multiple **sources** can hav
 ### Example:
 Consider the following grid (column and row indices marked).
 
-![](example-grid.png)
+![](example_grid.png)
 
 If the value of interest is 7, then the following are the swap options to create a 4-connected component of 3 pixels of value 7.
 #### (r3, c1) <-> (r2, c1)
